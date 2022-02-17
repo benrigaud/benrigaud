@@ -2,7 +2,4 @@
 
 👨‍🏭 Im a front-end developer and designer
 
-My current goals are:
-
-🎯 Master JavaScript <br>
-🎯 Learn React JS
+🎯Constantly trying to learn and improve my skills
